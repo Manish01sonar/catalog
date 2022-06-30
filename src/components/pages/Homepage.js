@@ -13,7 +13,7 @@ const useStyles = makeStyles({
  },
  addMedColor: {
   backgroundColor: green[400],
-  color: "white"
+  color: "Red"
  },
 })
 
